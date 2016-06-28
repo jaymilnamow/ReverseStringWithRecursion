@@ -3,7 +3,7 @@
  */
 public class ReverseString {
 
-    public String reverseString(String input){
+    String reverseString(String input){
 
 //        String output = "";
 //
